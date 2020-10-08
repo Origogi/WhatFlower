@@ -1,9 +1,18 @@
 # WhatFlower
 
-iOS ColeML sample app
+An app that analyzes the picture of the flower selected by the user and shows the name and information
 
-![Simulator Screen Shot - iPhone 11 - 2020-10-08 at 16 00 08](https://user-images.githubusercontent.com/35194820/95425541-667e9380-097f-11eb-85e5-182e2ef9a73e.png)
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/35194820/95426135-5f0bba00-0980-11eb-9f6e-5ef76397bfdb.png">
+</div>
+
+## Library
+
+- CoreML
+- Alamofire
+- SwiftyJSON
+- SDWebImage
 
 ## Note
 
